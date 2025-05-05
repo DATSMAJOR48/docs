@@ -10,7 +10,7 @@ versions:
   ghec: '*'
 includeGuides:
   - /issues/planning-and-tracking-with-projects/automating-your-project/automating-projects-using-actions
-  - /issues/planning-and-tracking-with-projects/creating-projects/creating-a-project
+  - /issues/planning-and-tracking-with-projects/creating-projects/creating-a-projectguides.md
   - /issues/planning-and-tracking-with-projects/customizing-views-in-your-project/changing-the-layout-of-a-view
   - /issues/planning-and-tracking-with-projects/learning-about-projects/quickstart-for-projects
   - /issues/planning-and-tracking-with-projects/automating-your-project/using-the-api-to-manage-projects
